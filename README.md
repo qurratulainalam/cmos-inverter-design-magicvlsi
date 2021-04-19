@@ -15,9 +15,9 @@ Magic is a Very-large-scale integration (VLSI) layout tool originally written by
 * The next line is optional and is used to identify the technology in which a cell was designed. If present, it should be of the form  
 **tech** techname (the technology we used is ***scmos** and **sample6m**)
 *  If absent, the technology defaults to a system-wide standard, currently **nmos**.  
-2.In the top menu-bar select File > Open and navigate to one of the *.mag files from the examples, e.g. INVERTER.mag
+2. **for selecting a file:** In the top menu-bar select File > Open and navigate to one of the *.mag files from the examples, e.g. INVERTER.mag
 3. Select a *.mag file and click Open. The layout of the selected cell will be show in the main window called **top level**
-4. you can edit the layout by entering commands in the command window called **tkcon 2.3 main**  
+4. **for editing the layout:** you can edit the layout by entering commands in the command window called **tkcon 2.3 main**  
 5. Further tutorials for Magic can be found here http://opencircuitdesign.com/magic/tutorials/tut1.html.  
 ##
 
