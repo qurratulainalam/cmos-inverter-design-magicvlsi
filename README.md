@@ -27,9 +27,9 @@ It is important to notice that the CMOS does not contain any resistors, which ma
 # Designing a CMOS inverter on magic VLSI layout tool:   
 Below is the picture of the inverter I designed:   
 ![Screenshot from 2021-04-20 02-17-12](https://user-images.githubusercontent.com/81563886/115318268-dbd0e980-a196-11eb-8fc8-277c04b1212b.png)  
-Writing the whole procedure of how I designed the inverter on magic would make this README file very long and drawn out so i am attaching a link with step by step tutorial for inverter layout **http://www-scf.usc.edu/~ee577/tutorial/magic_tut.html** 
-**note:**
- I am not a professional physical chip layout engineer and the content of this repository may not reflect any industry standard. Errors, even obvious ones, may be presented without proper indication.
+Writing the whole procedure of how I designed the inverter on magic would make this README file very long and drawn out so i am attaching a link with step by step tutorial for inverter layout **http://www-scf.usc.edu/~ee577/tutorial/magic_tut.html**  
+**note:**  
+ I am not a professional physical chip layout engineer and the content of this repository may not reflect any industry standard. Errors, even obvious ones, may be presented without proper indication.  
 
 
 
