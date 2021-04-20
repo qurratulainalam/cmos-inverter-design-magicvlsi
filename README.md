@@ -20,7 +20,7 @@ Magic is a Very-large-scale integration (VLSI) layout tool originally written by
 3. Select a *.mag file and click Open. The layout of the selected cell will be show in the main window called **top level**  
 4. **For editing the layout:** you can edit the layout by entering commands in the command window called **tkcon 2.3 main**  
 5. Further tutorials for Magic can be found here http://opencircuitdesign.com/magic/tutorials/tut1.html.  
-# cmos inverter:  
+# CMOS Inverter:  
 A CMOS inverter contains a PMOS and a NMOS transistor connected at the drain and gate terminals, a supply voltage VDD at the PMOS source terminal, and a ground connected at the NMOS source terminal, were VIN is connected to the gate terminals and VOUT is connected to the drain terminals.  
 It is important to notice that the CMOS does not contain any resistors, which makes it more power efficient that a regular resistor-MOSFET inverter.As the voltage at the input of the CMOS device varies between 0 and 5 volts, the state of the NMOS and PMOS varies accordingly. If we model each transistor as a simple switch activated by VIN, the inverter’s operations can be seen very easily:  
 ![CMOS Inverters](https://user-images.githubusercontent.com/81563886/115317443-028e2080-a195-11eb-8b1c-6b0f1298f835.png)  
