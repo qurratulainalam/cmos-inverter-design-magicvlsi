@@ -47,7 +47,7 @@ IRSIM shares a history with magic, although it is an independent program. Magic 
 **l a**  
 * s tells IRSIM to simulate for a certain period of time previously defined by the stepsize command. The default value is 10 ns, but we set it to 50ns above.  
 **s**  
-* IRSIM displays the values of the nodes after each step because of the previous d command. The current time is also displayed. Note that time = 50 ns. This is the current simulation time now.
+* IRSIM displays the values of the nodes after each step because of the previous d command. The current time is also displayed. Note that time = 50 ns. This is the current simulation time now.  
 **a=0  b=1  
 time = 50.000ns**  
 * h sets the following nodes to a logic high value. Therefore the above command sets node c to logic 1.  
